@@ -1,0 +1,6 @@
+{
+  "name": "MoneyIQ AI — Financial Decision Intelligence & Behavioral Scoring",
+  "description": "Production-grade Financial Decision Intelligence & Behavioral Scoring Platform built for India's Future Investors (IFI) reality show context, featuring ML contestant scoring, behavioral clustering, challenge simulation, and audience analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
